@@ -11,7 +11,7 @@ const word4 = "Engineering";
 function App() {
   return (
     <div >
-        <h1>Welcome to card game</h1>
+        <h1 className='header'>Welcome to card game</h1>
 
         <WordCard value={word1}/>
         <WordCard value={word2}/>
