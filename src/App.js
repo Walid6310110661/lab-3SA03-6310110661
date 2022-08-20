@@ -11,7 +11,7 @@ const word4 = "Engineering";
 function App() {
   return (
     <div >
-        
+
         <WordCard value={word1}/>
         <WordCard value={word2}/>
         <WordCard value={word3}/>
