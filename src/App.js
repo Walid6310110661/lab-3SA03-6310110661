@@ -12,6 +12,7 @@ function App() {
   return (
     <div className='blackground'>
         <h1 className='header'>Welcome to card game</h1>
+        <p>Please sort the terminology correctly</p>
 
         <WordCard value={word1}/>
         <WordCard value={word2}/>
